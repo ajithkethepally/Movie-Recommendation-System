@@ -39,7 +39,7 @@ Welcome to the Movie Recommender System project! This system provides movie reco
 ## Getting Started
 
 1. Clone the repository:
-git clone <https://github.com/Akash8902/Movie-Recommendation-System>
+git clone <https://github.com/ajithkethepally/Movie-Recommendation-System>
 
 
 2. Navigate to the project directory:
